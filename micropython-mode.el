@@ -1,7 +1,10 @@
 ;;; micropython-mode.el --- micropython mode derived from python mode -*- lexical-binding: t; -*-
 
 ;; copyright 2021 picospuch
-;; version 1.0
+
+;; Author: picospuch
+;; Keywords: python
+;; Version: 1.0
 
 ;;; Code:
 
