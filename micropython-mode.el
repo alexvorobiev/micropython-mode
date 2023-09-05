@@ -5,7 +5,7 @@
 ;; Author: picospuch
 ;; Keywords: python
 ;; Version: 1.0
-
+;;; Commentary:
 ;;; Code:
 
 (defun micropython-shell-send-string (string &optional process msg)
@@ -144,3 +144,4 @@ t when called interactively."
                  (symbol-function 'micropython-shell-send-string)))
 
 (provide 'micropython-mode)
+;;; micropython-mode.el ends here
